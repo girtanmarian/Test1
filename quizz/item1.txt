@@ -1,0 +1,8 @@
+What is regression? What is retesting?
+
+Regression testing - testing after there were made some changes, example : new features, bugs rezolved. 
+
+Retesting or Confirmation testing - Testing after DevOps fixed a bug or a missing functionality. 
+
+
+

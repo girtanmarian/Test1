@@ -1,0 +1,37 @@
+In the images folder you have a login form. Create Test Cases for the given form.
+
+Please state the testing types(functional, non-functional, black box, white box, design technique) for each TC created.
+
+Test Cases -  Black Box (can easily be done by seeing the code / white box)  - 1 - testing the name box   - if contains only [a-zA-Z];
+										- left it blank;
+										- inserting numbers;
+										- inserting special characters;
+										- testing lenght;
+
+			- 2 - testing the email : - blank;
+									  - only name withouth @; 
+									  - lenght;
+									  - checking if the email is used already - registering 2 users with the same email; 
+			- 3 - Password box - blank;
+							   - checking the lenght / range - 1 character to maximum;
+
+  Test Case - Black box  - Sing up button 	Functional		  - all other boxes are left blank; 
+  											Functional		  - every boxe completed correctly; 
+  											Non Functional		  - only name input and then click on signup;
+  											Non Functional		  - only email input and then click on signup;
+  											Non Functional		  - only password and then click on signup;
+  											Non Functional		  - only name + email / name + password / password + email / 
+  				White box - checking the logic on the above test with signup;									  
+  			
+  	Black box - Functional - Sign in - Clicking on should redirect us to the login interface/page.
+
+  	Design - the screen moves;
+
+  	Black Box - Functional testing - Clicking on any of the buttons for facebook / google + / linkin should redirect us to a new login interface/page;
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+Consider that you have found a defect in the form for the previous exercise. Create a bug report for it.
+
+Title - Cannot Sign up
+Build - 
+Severity - Critical; 
+Priority - High.
+Test steps - open login/signup page;
+		- Inserted name : test1 
+		- Inserted email : test1@emailtest.com
+		- Inserted password : password1
+Actual results - sign up button didn't redirect us to a new page / new interface;
+Expected results - Sign up button should redirect for new page / new interface;
+Logs - 
+Screenshot - if the bug can't be reproduced or takes a longer explanation;
