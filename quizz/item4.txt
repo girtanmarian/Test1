@@ -1,0 +1,12 @@
+Please state what is black box testing? How about white box testing? You can also give an example.
+
+Black box testing - is testing based on the product requirements without having access to the code;
+
+White box testing - is testing with access of the source code;
+
+Example of black testing - Requirements sheet / file from the Project Manager.
+
+Example of white testing - Testing of the requirements on the code itself; 
+
+
+

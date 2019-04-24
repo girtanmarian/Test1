@@ -1,0 +1,9 @@
+Name the difference between agile & v-model. (Please specify some roles and cycles for these)
+
+V- Model - There is testing in paralel and can't come back at a point until it's the full cycle done.
+Example - Design with integration testing; 
+		System requirements with System testing;
+
+Agile model - is testing in cycles of 2 to 4 weeks.
+Analysis - DevOp - Test - Design - Feedback - 
+
